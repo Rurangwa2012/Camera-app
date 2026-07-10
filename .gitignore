@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+
+# Never commit Next.js build output (even if copied to repo root)
+/build-manifest.json
+/app-build-manifest.json
+/prerender-manifest.json
+/react-loadable-manifest.json
+/routes-manifest.json
+/trace
+/cache/
+/static/
+/types/

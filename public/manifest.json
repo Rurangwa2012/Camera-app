@@ -1,0 +1,10 @@
+{
+  "name": "My Phone Camera Sync",
+  "short_name": "Camera Sync",
+  "description": "Securely stream your phone camera to another device",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait"
+}

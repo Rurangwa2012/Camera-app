@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+video {
+  @apply bg-black;
+}
